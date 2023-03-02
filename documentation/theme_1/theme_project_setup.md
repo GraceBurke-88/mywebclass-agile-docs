@@ -16,3 +16,16 @@ us up for long-term success.
 
 ## Test plan
 How will this be tested?
+
+# Theme 2.0: 
+## Overview
+
+## Initiative(s)
+
+* [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
+
+* Monitoring to continuously improve the quality of our project
+  * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
+
+## Test plan
+How will this be tested?
