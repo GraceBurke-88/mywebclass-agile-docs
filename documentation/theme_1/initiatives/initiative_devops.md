@@ -1,17 +1,18 @@
 # Initiative 2: "DevOps Implementation for MyWebClass.org"
 
 ### Description: 
-Implement a DevOps process that supports the development of MyWebClass.org.
+Implement a DevOps process that supports the development of MyWebClass.org. Consider security concerns
 
 ### Goals:
 Implement a DevOps process that supports the development of MyWebClass.org.
 Ensure smooth collaboration between the development team and other stakeholders.
+Ensure secure access to the DevOps infrastructure.
+Maintain compliance: Ensure compliance with regulatory and industry standards for security, such as PCI-DSS, HIPAA, and GDPR.
 
 ### Scope: 
 This initiative covers the implementation of a DevOps process that supports the development of MyWebClass.org.
 
 ### Outcomes:
-
 DevOps process that supports the development of MyWebClass.org.</br>
 Improved collaboration between the development team and other stakeholders.
 
